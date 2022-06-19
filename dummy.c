@@ -2,6 +2,6 @@
 
 int main()
 {
-  printf("Build periodically \n");
+  printf("Poll Scm \n");
   return 0;
 }
