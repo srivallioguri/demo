@@ -1,1 +1,1 @@
-echo "Testing Git web hooks"
+echo "Testing Git web hooks with scm poll"
