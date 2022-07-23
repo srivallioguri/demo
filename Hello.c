@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("Hello World in Slave-1 to copy Artifact");
+    printf("Hello World in Slave-1 to copy the Artifact");
 
     return 0;
 }
