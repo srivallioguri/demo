@@ -1,1 +1,1 @@
-echo "I am new to automation"
+echo "I am new to Automation"
