@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("Hello World  from Hello.c  ...");
+    printf("Hello World  ...");
 
     return 0;
 }
