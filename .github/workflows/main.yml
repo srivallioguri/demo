@@ -4,4 +4,4 @@ on:
       - created
   push:
     branches:
-      - default
+      - new_branch
