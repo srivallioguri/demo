@@ -9,9 +9,9 @@ on:
 jobs:
   build:
 
-    runs-on: srivalli-VirtualBox
+    runs-on: self-hosted
 
     steps:
     - uses: actions/checkout@v4
     - name: configure
-      run: gcc Hello.c
+      run: echo "Hellooooo from self hosted runner"
